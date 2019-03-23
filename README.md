@@ -9,6 +9,6 @@ allocation du calcul : https://www.tensorflow.org/guide/using_gpu
 ## Créer un environnement 
 
 conda create -n tensorflow_env tensorflow
- 	conda activate tensorflow_env
+conda activate tensorflow_env
   
   https://www.anaconda.com/tensorflow-in-anaconda/
